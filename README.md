@@ -1,4 +1,4 @@
-# Adopt Pet App - React JS, Solidity, Hardhat, Ethereum and Polygon.
+# Hughub 
 
 ## Setup
 
@@ -13,7 +13,7 @@
 5. Navigate into the project directory
 
    ```bash
-   $ cd adopt-pet-hardhat
+   $ cd Hughub
    ```
 
 6. Install the requirements
@@ -47,4 +47,3 @@
    $ npm run frontend
    ```
 
-You should now be able to access the app at [http://localhost:3000](http://localhost:3000)! For the full context behind this app, check out the full course [tutorial](https://academy.eincode.com/courses/nft-marketplace-in-react-js-next-typescript-full-guide).
